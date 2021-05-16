@@ -4,11 +4,29 @@
 *Version 1.0 - 25/4/21* - initial version
 <br>
 *Version 1.1 - 16/5/21* - changed trace specs for isolation routing
+<br>
+*Version 2.0 - 16/5/21* - added disclaimer, required hardware and software
+
+## Disclaimer
+**USE THIS PROCESS AT YOUR OWN RISK.** It is a process I have developed for my own use, PCB milling on my Snapmaker 2.0 A250 **as a beginner at CNC milling with limited experience working in Altium Designer**. I am open to any additions or suggestions for improvement of this process, but this process is provided **as-is with no guarantee of support, warranty or compatibility with current or future hardware or software revisions.** This process worked for me, but there are no guarantees it will work for you. 
+
+## Requirements
+### Required Hardware
+- Snapmaker 2.0 with CNC module & wasteboard. This process may work for other CNC mills too but it has not been tested as such. This process was tested on firmware (x.x.x)
+- Snapmaker CNC bits and any bits required for the drilling portion of milling your PCB. In this example we use the Snapmaker V-Bit for isolation routing.
+
+### Required Software
+- Snapmaker Luban (tested on version x.x.x) - sends the gcode to the mill.
+- Altium Designer (for creating and exporting PCBs) - other software that can generate gerber and excellron files may also work
+- FlatCAM (FREE PCB manufacturing software) : http://flatcam.org/ - tested on version (x.x.x)
+
+### Useful Links
+- The tutorial video by Garage Factory SD which I used to learn the basics of Snapmaker PCB milling. This guide is a combination of what I learned from this video and my own experience: 
+https://www.youtube.com/watch?v=1Ctp3FackBE
+- The Specs of Snapmaker's CNC Bits
+https://shop.snapmaker.com/products/cnc-bits-5-bits
 
 <br>
-
-### Snapmaker Bit Specs
-https://shop.snapmaker.com/products/cnc-bits-5-bits
 
 ## Part 1: Exporting Altium Designer PCB designs
 
