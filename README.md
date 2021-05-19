@@ -21,10 +21,12 @@
 - FlatCAM (FREE PCB manufacturing software) : http://flatcam.org/ - tested on version (x.x.x)
 
 ### Useful Links
-- The tutorial video by Garage Factory SD which I used to learn the basics of Snapmaker PCB milling. This guide is a combination of what I learned from this video and my own experience: 
+- The tutorial video by **Garage Factory SD** which I used to learn the basics of Snapmaker PCB milling. This guide is a combination of what I learned from this video and my own experience: 
 https://www.youtube.com/watch?v=1Ctp3FackBE
 - The Specs of Snapmaker's CNC Bits
 https://shop.snapmaker.com/products/cnc-bits-5-bits
+- Download FlatCAM: http://flatcam.org/download
+
 
 <br>
 
