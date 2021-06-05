@@ -41,7 +41,7 @@ Right clicking on this and selecting **Explore** will open the location of these
 The files from this directory should be opened with **FlatCAM**.
 
 ### Example PCB Project
-![Example PCB Project Image](images/example_pcb.png)
+![Example PCB Project Image](images/example_pcb.PNG)
 
 ## Part 2: Generating CNC Jobs
 
@@ -156,7 +156,7 @@ In place of the auto-generated header, fill in the values in this template and p
 
 Open the G-Code file you have just created in **Snapmaker Luban**. You can do this in the window shown below, in the top right corner of the software.
 
-![Insert Image here](images/opengcode.png)
+![Insert Image here](images/opengcode.PNG)
 
 Snapmaker Luban will now show you a preview of this G-Code in the main window. Make sure everything looks good, and **Note the Location of your Work Origin relative to your milling position, It may NOT be in the centre**. Next connect to your snapmaker over WiFi and send this G-Code to it. Open the file on the printer and follow the guided process, and start your milling process!
 
