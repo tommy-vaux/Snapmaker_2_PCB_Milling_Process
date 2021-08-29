@@ -5,12 +5,12 @@
 
 ## Requirements
 ### Required Hardware
-- Snapmaker 2.0 with CNC module & wasteboard. This process may work for other CNC mills too but it has not been tested as such. This process was tested on firmware (x.x.x)
+- Snapmaker 2.0 with CNC module & wasteboard. This process may work for other CNC mills too but it has not been tested as such.
 - Snapmaker CNC bits and any bits required for the drilling portion of milling your PCB. In this example we use the Snapmaker V-Bit for isolation routing.
 
 ### Required Software
 - Snapmaker Luban (tested on version 3.15.1) - sends the gcode to the mill.
-- Altium Designer (for creating and exporting PCBs) - other software that can generate gerber and excellron files may also work - tested on version 21.0.9
+- Altium Designer or EasyEDA (for creating and exporting PCBs) - other software that can generate gerber and excellron files may also work - tested on version 21.0.9
 - FlatCAM (FREE PCB manufacturing software) : http://flatcam.org/ - tested on version 8.994 Beta
 
 ### Useful Links
